@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=kullanici-adiniz&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,9 +46,6 @@ total streak
 
 total contributions, total star vs gösteriyor.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kullanici-adiniz&theme=radical)
 
 
 profilimde hangi dil hangi oranda kullanılmış grafiği
