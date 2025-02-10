@@ -4,7 +4,7 @@
 
 📊 I use SQL daily. 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/) I would appreciate it if you could follow my Instagram account, where I share what I learn about programming.
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/)  I would appreciate it if you could follow my Instagram account, where I share what I learn about programming.
 
 <!--
 **asyaisbil/asyaisbil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
