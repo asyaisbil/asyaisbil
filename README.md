@@ -5,9 +5,15 @@
 📊 I use SQL daily. 
 
 📫 Contact me
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/asya-isbil/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:asyaisbill@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/)  
+
+## 📚 Recommended Learning Resources
+- [Python Docs](https://docs.python.org/3/)  
+- [SQL Tutorial](https://www.w3schools.com/sql/)  
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 <!--
 I would appreciate it if you could follow my Instagram account, where I share what I learn about programming.
