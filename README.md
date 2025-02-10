@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=asyaisbil&theme=light)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,6 +37,15 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=light)
 
 <!--
+
+## 🚀 Featured Projects
+- [Project 1](https://github.com/kullanici-adiniz/proje1) - Açıklama
+- [Project 2](https://github.com/kullanici-adiniz/proje2) - Açıklama
+
+## 📝 Blog Posts
+- [Yazı 1 Başlığı](https://medium.com/@kullaniciadiniz)
+- [Yazı 2 Başlığı](https://medium.com/@kullaniciadiniz)
+
 total streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=asyaisbil&theme=radical)
 
@@ -50,6 +56,9 @@ total contributions, total star vs gösteriyor.
 
 profilimde hangi dil hangi oranda kullanılmış grafiği
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
+
+## 🏆 GitHub Trophies (github rozetlerim)
+![Trophies](https://github-profile-trophy.vercel.app/?username=asyaisbil&theme=light)
 
 dillerin ikonlarının gelişmiş halleri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
