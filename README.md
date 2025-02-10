@@ -2,7 +2,9 @@
 
 ⚡ I’m currently learning JavaScript.
 
+<!--
 📊 I use SQL daily. 
+-->
 
 📫 Contact me
 
