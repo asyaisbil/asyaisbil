@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=light)
 
 <!--
 total streak
