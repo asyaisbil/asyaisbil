@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
+
 <!--
 profilimde hangi dil hangi oranda kullanılmış grafiği
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
