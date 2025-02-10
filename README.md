@@ -10,12 +10,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:asyaisbill@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/)  
 
+<!--
 ## 📚 Recommended Learning Resources
 - [Python Docs](https://docs.python.org/3/)  
 - [SQL Tutorial](https://www.w3schools.com/sql/)  
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-<!--
+
 I would appreciate it if you could follow my Instagram account, where I share what I learn about programming.
 -->
 <!--
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Tech stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
