@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asyaisbil&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=light)
 
 <!--
 
