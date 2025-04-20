@@ -1,31 +1,31 @@
-## Asya İşbil
+# Asya İşbil
 
-# Merhaba! Ben Asya 👋
+🎓 Data Analyst | 👩‍💻 Fullstack Developer in Training 
 
-🎓 Veri Analisti | 👩‍💻 Fullstack Developer Adayı | 🎨 Meraklı Öğrenici
+## 🚀 What I'm Working On
+- 💻 Currently enrolled in a Fullstack Developer course
+- 🧠 Learning Front-End technologies (HTML, CSS, JavaScript)
+- 📊 Integrating my data analytics background into development projects
 
-## 🚀 Şu Anda Ne Yapıyorum?
-- 💻 Fullstack Developer eğitimi alıyorum
-- 🧠 Front-End teknolojilerini öğrenme sürecindeyim (HTML, CSS, JS)
-- 📊 Veri analizi deneyimimi yazılım projelerine entegre etmeyi hedefliyorum
-
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (PostgreSQL, MySQL)
-- HTML, CSS, JavaScript (Temel düzey)
+- HTML, CSS, JavaScript (in progress)
 - Git, GitHub, VS Code
 
-## 💡 Projelerimden Bazıları
-- [Veri Görselleştirme Projesi](#) - Python ile hazırlanmış grafikler ve analiz
-- [Kişisel Portfolyo Web Sitesi](#) - HTML & CSS ile hazırlanıyor
-- [Basit To-Do List Uygulaması](#) - JavaScript ile ilk interaktif uygulamam
+<!--
+## 💡 Some of My Projects
+- [Data Visualization Project](#) - Created with Python & Matplotlib
+- [Personal Portfolio Website](#) - Built with HTML & CSS
+- [Simple To-Do List App](#) - My first interactive JavaScript project
+-->
 
-## 📈 GitHub İstatistikleri
-![Asya'nın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![Asya's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
 
-## 📬 Bana Ulaş
-- [LinkedIn](https://www.linkedin.com/in/asyaisbil) *(varsa)*
-- 📧 Mail: seninmailin@mail.com *(istersen koyabilirim)*
+## 📬 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/asyaisbil) 
+- 📧 Email: yourmail@example.com *(optional)*
 
 
 <!--
