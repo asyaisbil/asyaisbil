@@ -8,10 +8,13 @@
 - 📊 Integrating my data analytics background into development projects
 
 ## 🛠️ Technologies I Use
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (PostgreSQL, MySQL)
-- HTML, CSS, JavaScript (in progress)
-- Git, GitHub, VS Code
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <!--
 ## 💡 Some of My Projects
@@ -28,6 +31,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/asya-isbil/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/)  
 
+<!--
 ## 💻 Tech stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +45,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
 
 
