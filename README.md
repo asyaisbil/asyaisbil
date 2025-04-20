@@ -1,5 +1,36 @@
 ## Asya İşbil
 
+# Merhaba! Ben Asya 👋
+
+🎓 Veri Analisti | 👩‍💻 Fullstack Developer Adayı | 🎨 Meraklı Öğrenici
+
+## 🚀 Şu Anda Ne Yapıyorum?
+- 💻 Fullstack Developer eğitimi alıyorum
+- 🧠 Front-End teknolojilerini öğrenme sürecindeyim (HTML, CSS, JS)
+- 📊 Veri analizi deneyimimi yazılım projelerine entegre etmeyi hedefliyorum
+
+## 🛠️ Kullandığım Teknolojiler
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (PostgreSQL, MySQL)
+- HTML, CSS, JavaScript (Temel düzey)
+- Git, GitHub, VS Code
+
+## 💡 Projelerimden Bazıları
+- [Veri Görselleştirme Projesi](#) - Python ile hazırlanmış grafikler ve analiz
+- [Kişisel Portfolyo Web Sitesi](#) - HTML & CSS ile hazırlanıyor
+- [Basit To-Do List Uygulaması](#) - JavaScript ile ilk interaktif uygulamam
+
+## 📈 GitHub İstatistikleri
+![Asya'nın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
+
+## 📬 Bana Ulaş
+- [LinkedIn](https://www.linkedin.com/in/asyaisbil) *(varsa)*
+- 📧 Mail: seninmailin@mail.com *(istersen koyabilirim)*
+
+
+<!--
+
+
 ⚡ I’m currently learning JavaScript.
 
 <!--
@@ -81,4 +112,5 @@ profilimde hangi dil hangi oranda kullanılmış grafiği
 dillerin ikonlarının gelişmiş halleri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+-->
 -->
