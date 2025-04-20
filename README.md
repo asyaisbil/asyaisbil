@@ -18,10 +18,10 @@
 - [Data Visualization Project](#) - Created with Python & Matplotlib
 - [Personal Portfolio Website](#) - Built with HTML & CSS
 - [Simple To-Do List App](#) - My first interactive JavaScript project
--->
 
 ## 📈 GitHub Stats
 ![Asya's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
+-->
 
 ## 📬 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:asyaisbill@gmail.com)
