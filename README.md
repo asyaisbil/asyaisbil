@@ -2,10 +2,12 @@
 
 🎓 Data Analyst | 👩‍💻 Fullstack Developer in Training 
 
+<!--
 ## 🚀 What I'm Working On
 - 💻 Currently enrolled in a Fullstack Developer course
 - 🧠 Learning Front-End technologies (HTML, CSS, JavaScript)
 - 📊 Integrating my data analytics background into development projects
+-->
 
 ## 🛠️ Technologies I Use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
