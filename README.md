@@ -16,6 +16,13 @@
 
 ---
 
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/asya-isbil)
+- ✉️ Email: **asyaisbill@gmail.com**
+
+---
+
 ### 🚀 Technologies & Tools
 
 - **Frontend**  
@@ -39,13 +46,6 @@
 ### 📌 Highlight Projects
 
 > See all my projects 👉 [GitHub Repositories](https://github.com/asyaisbil?tab=repositories)
-
----
-
-### 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/asya-isbil)
-- ✉️ Email: **asyaisbill@gmail.com**
 
 ---
 
