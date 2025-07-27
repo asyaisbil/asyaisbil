@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer in progress | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+in+progress;Data+Analyst+%7C+SQL+%7C+Python;React+%7C+Java+%7C+PostgreSQL;Creative+mind+%2B+Strong+logic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+in+progress;Data+Analyst+%7C+SQL+%7C+Python;React+%7C+Java+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 ---
