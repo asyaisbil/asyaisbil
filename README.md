@@ -57,8 +57,8 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/asyaisbil)
-- ✉️ Email: **asyaisbil@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/asya-isbil)
+- ✉️ Email: **asyaisbil@gmaill.com**
 - 🌐 Personal Website (coming soon via GitHub Pages)
 
 ---
