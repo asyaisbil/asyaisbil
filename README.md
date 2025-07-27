@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Auth System](https://github.com/asyaisbil/auth-system)** | User authentication with React, JWT, and Node.js | React, JWT |
-| **[E-commerce Mini App](https://github.com/asyaisbil/react-ecommerce)** | A simple shopping cart with Redux & Context API | React, Redux |
-| **[Cypress Testing Project](https://github.com/asyaisbil/cypress-tests)** | Automated UI tests using Cypress | Cypress, JS |
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
