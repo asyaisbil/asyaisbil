@@ -1,6 +1,6 @@
 <!-- Banner veya animasyonlu GIF ekleyebilirsin -->
 <h1 align="center">Asya İşbil</h1>
-<h3 align="center">Frontend Developer | React & Redux Enthusiast</h3>
+<h3 align="center">Data Analyst | Fullstack Learner | React & Redux Enthusiast</h3>
 
 ---
 
