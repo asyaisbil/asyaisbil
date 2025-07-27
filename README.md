@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 - 🌱 I’m currently learning **Fullstack Development** and expanding my skills in **React, Redux, Cypress, and Java**.  
-- 💼 Currently working as **Data Analyst at a banking software company**.  
+- 💼 Currently working as **Data Analyst at a bank**.  
 - 🔍 Interested in **data visualization** and **modern frontend architectures**.  
 - 💬 Ask me about **React, Redux, Cypress, Java, or REST APIs**.  
 
