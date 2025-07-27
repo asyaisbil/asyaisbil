@@ -28,9 +28,6 @@
 -->
 
 
-## 📈 GitHub Stats
-![Asya's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
-
 ## 📬 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:asyaisbill@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/asya-isbil/)
@@ -38,6 +35,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
+
+## 📈 GitHub Stats
+![Asya's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
 
 <!--
 ## 💻 Tech stack 
