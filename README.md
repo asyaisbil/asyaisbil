@@ -1,91 +1,76 @@
+<h1 align="center">Hi 👋, I'm Asya İşbil</h1>
+<h3 align="center">Full-Stack Developer in progress | Data Analyst | Passionate about learning</h3>
 
-# Asya İşbil
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+in+progress;Data+Analyst+%7C+SQL+%7C+Python;React+%7C+Java+%7C+PostgreSQL;Creative+mind+%2B+Strong+logic" alt="Typing SVG" />
+</p>
 
-🎓 Data Analyst | 👩‍💻 Fullstack Developer in Training 
+---
 
-<!--
-## 🚀 What I'm Working On
-- 💻 Currently enrolled in a Fullstack Developer course
-- 🧠 Learning Front-End technologies (HTML, CSS, JavaScript)
-- 📊 Integrating my data analytics background into development projects
--->
+### 💼 About Me
 
-## 🛠️ Technologies I Use
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🎓 I have a Mathematics degree from **Boğaziçi University**  
+- 🏦 Currently working as a **Data Analyst** in a private bank  
+- 💻 Taking a full-stack development bootcamp (Java, React, SQL, Node.js)  
+- 🎯 Planning a career transition to **full-stack development**  
+- 🌍 Aspiring to relocate and work abroad, especially in **Ireland**  
+- 🎨 I love jazz, drawing, rowing, dancing, and storytelling through tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+---
 
-<!--
-## 💡 Some of My Projects
-- [Data Visualization Project](#) - Created with Python & Matplotlib
-- [Personal Portfolio Website](#) - Built with HTML & CSS
-- [Simple To-Do List App](#) - My first interactive JavaScript project
+### 🚀 Technologies & Tools
 
--->
+**Frontend**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
+**Backend & DB**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
-## 📬 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:asyaisbill@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/asya-isbil/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/commentlines/)  
+**Data & Tools**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
+### 📌 Highlight Projects
 
-## 📈 GitHub Stats
-![Asya's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
+- 🎬 **Film Explorer App** – A React-based app using mock data and routing  
+- 🧠 **Customer Classification (ML)** – Binary classification using CNN and logistic regression  
+- 📊 **Credit Card LTV Segmentation** – SQL + Python-based banking analytics
 
-<!--
-## 💻 Tech stack 
+> See all my projects 👉 [GitHub Repositories](https://github.com/asyaisbil?tab=repositories)
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### 📈 GitHub Stats
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical&hide=prs" alt="Asya's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asyaisbil&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asyaisbil&theme=react-dark" alt="Contribution Graph" />
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
--->
+### 📫 Let's Connect!
 
-<!--
+- 💼 [LinkedIn](https://www.linkedin.com/in/asyaisbil)
+- ✉️ Email: **asyaisbil@gmail.com**
+- 🌐 Personal Website (coming soon via GitHub Pages)
 
-## 🚀 Featured Projects
-- [Project 1](https://github.com/kullanici-adiniz/proje1) - Açıklama
-- [Project 2](https://github.com/kullanici-adiniz/proje2) - Açıklama
+---
 
-## 📝 Blog Posts
-- [Yazı 1 Başlığı](https://medium.com/@kullaniciadiniz)
-- [Yazı 2 Başlığı](https://medium.com/@kullaniciadiniz)
-
-total streak
-![GitHub Streak](https://streak-stats.demolab.com?user=asyaisbil&theme=radical)
-
-
-total contributions, total star vs gösteriyor.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical)
-
-
-profilimde hangi dil hangi oranda kullanılmış grafiği
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact)
-
-## 🏆 GitHub Trophies (github rozetlerim)
-![Trophies](https://github-profile-trophy.vercel.app/?username=asyaisbil&theme=light)
-
-dillerin ikonlarının gelişmiş halleri
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
--->
-
-
+<p align="center">
+  “Code is where logic meets creativity.” ✨
+</p>
