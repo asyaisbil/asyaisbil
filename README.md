@@ -12,9 +12,7 @@
 - 🎓 I have a Mathematics degree from **Boğaziçi University**  
 - 🏦 Currently working as a **Data Analyst** in a private bank  
 - 💻 Taking a full-stack development bootcamp (Java, React, SQL, Node.js)  
-- 🎯 Planning a career transition to **full-stack development**  
-- 🌍 Aspiring to relocate and work abroad, especially in **Ireland**  
-- 🎨 I love jazz, drawing, rowing, dancing, and storytelling through tech
+- 🎯 Planning a career transition to **full-stack development**    
 
 ---
 
@@ -30,22 +28,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
 **Data & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
 ---
 
 ### 📌 Highlight Projects
-
-- 🎬 **Film Explorer App** – A React-based app using mock data and routing  
-- 🧠 **Customer Classification (ML)** – Binary classification using CNN and logistic regression  
-- 📊 **Credit Card LTV Segmentation** – SQL + Python-based banking analytics
 
 > See all my projects 👉 [GitHub Repositories](https://github.com/asyaisbil?tab=repositories)
 
