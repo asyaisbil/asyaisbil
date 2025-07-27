@@ -42,23 +42,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical&hide=prs" alt="Asya's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asyaisbil&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asyaisbil&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asya-isbil)
 - ✉️ Email: **asyaisbill@gmail.com**
-- 🌐 Personal Website (coming soon via GitHub Pages)
 
 ---
 
