@@ -32,6 +32,10 @@
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asyaisbil&show_icons=true&theme=radical&hide_title=false&hide_border=false&bg_color=0D1117&title_color=a855f7&icon_color=facc15&text_color=ffffff" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=radical&bg_color=0D1117&title_color=a855f7&text_color=ffffff&hide_border=false" width="48%" /> </p>
+
+---
+
 <p align="center">
   “Code is where logic meets creativity.” ✨
 </p>
