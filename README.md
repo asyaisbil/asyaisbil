@@ -8,8 +8,7 @@
 ---
 
 ### 💼 About Me
-
-- 🎓 I have a Mathematics degree from **Boğaziçi University**  
+  
 - 🏦 Currently working as a **Data Analyst** in a private bank  
 - 💻 Taking a full-stack development bootcamp (Java, React, SQL, Node.js)  
 - 🎯 Planning a career transition to **full-stack development**    
