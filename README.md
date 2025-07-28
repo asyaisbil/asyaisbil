@@ -22,12 +22,7 @@
 
 ---
 
-| Frontend    | Backend & DB   | Data & Tools  |
-|-------------|----------------|----------------|
-| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python |
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git |
-| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub |
-| ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS |  |  |
+<table> <thead> <tr> <th>Frontend</th> <th>Backend & DB</th> <th>Data & Tools</th> </tr> </thead> <tbody> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/> Node.js</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="25"/> R</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS</td> <td></td> <td></td> </tr> </tbody> </table>
 
 ---
 
