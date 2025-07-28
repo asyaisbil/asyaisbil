@@ -79,14 +79,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyaisbil&layout=compact&theme=default&hide_title=false&hide_border=true&text_color=333&title_color=8a2be2" width="40%" />
-</p>
-
----
-
 <p align="center">
   <i>“Code is where logic meets creativity.” ✨</i>
 </p>
