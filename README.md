@@ -22,12 +22,13 @@
 
 ---
 
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend Tech Stack" /> </p>
-Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=java,nodejs,postgres" alt="Backend & DB Tech Stack" /> </p>
-Data & Tools
-<p> <img src="https://skillicons.dev/icons?i=python,git,github" alt="Data Tools" /> </p>
+| Frontend    | Backend & DB   | Data & Tools  |
+|-------------|----------------|----------------|
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git |
+| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub |
+| ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS |  |  |
+
 ---
 
 ### 📌 Highlight Projects
