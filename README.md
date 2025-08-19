@@ -6,8 +6,9 @@
 </p>
 
 ---
-
+<!--
 ### 💼 About Me
+-->
 
 - 🎯 Currently working as a **Data Analyst** in a private bank  
 - 💻 Enrolled in an intensive **Full-Stack Web Development Bootcamp** (Java, React, Spring Boot, PostgreSQL, AI integration)  
@@ -15,8 +16,9 @@
 - 🎯 Actively preparing for a career transition to **Full-Stack Developer**
 
 ---
-
+<!--
 ### 📫 Let's Connect
+-->
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asya-isbil)  
 - ✉️ Email: **asyaisbill@gmail.com**
@@ -61,7 +63,6 @@
 
 ### 🧠 Bootcamp Curriculum Highlights
 -->
-### 🚀 Tech Stack & Tools
 
 <!--
 > Intensive 35-week, project-based full-stack program covering:
