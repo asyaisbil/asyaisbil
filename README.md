@@ -58,8 +58,10 @@
 </table>
 
 ---
--->
+
 ### 🧠 Bootcamp Curriculum Highlights
+-->
+### 🚀 Tech Stack & Tools
 
 <!--
 > Intensive 35-week, project-based full-stack program covering:
@@ -70,7 +72,7 @@
 - **Backend:** Java, OOP, SOLID Principles, Spring Boot, Hibernate, RESTful API development, Unit Testing  
 - **Database:** PostgreSQL, Oracle SQL, ORM, Data Modeling  
 - **AI Integration:** OpenAI API, RAG Systems  
-
+<!--
 ---
 
 ### 🧩 Featured Projects
@@ -84,3 +86,4 @@
 <p align="center">
   <i>“Code is where logic meets creativity.” ✨</i>
 </p>
+-->
