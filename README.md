@@ -10,10 +10,8 @@
 ### 💼 About Me
 -->
 
-- 🎯 Currently working as a **Data Analyst** in a private bank  
+- 🎯 **Data Analyst** 
 - 💻 Enrolled in an intensive **Full-Stack Web Development Bootcamp** (Java, React, Spring Boot, PostgreSQL, AI integration)  
-- 🌱 Building real-world projects using modern frameworks & best practices  
-- 🎯 Actively preparing for a career transition to **Full-Stack Developer**
 
 ---
 <!--
