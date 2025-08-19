@@ -22,7 +22,7 @@
 - ✉️ Email: **asyaisbill@gmail.com**
 
 ---
-
+<!--
 ### 🚀 Tech Stack & Tools
 
 <table> 
@@ -58,10 +58,12 @@
 </table>
 
 ---
-
+-->
 ### 🧠 Bootcamp Curriculum Highlights
 
+<!--
 > Intensive 35-week, project-based full-stack program covering:
+-->
 
 - **Frontend:** JavaScript, HTML, CSS, React, Responsive UI, Form Validation, TailwindCSS  
 - **Advanced Frontend:** Redux, TanStack Query, React Hook Form, Cypress Testing, AI-enhanced UX  
